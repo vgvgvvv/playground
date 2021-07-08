@@ -1,0 +1,6 @@
+[submodule "external/re-third-part"]
+	path = external/re-third-part
+	url = git@github.com:vgvgvvv/re-third-part.git
+[submodule "external/benchmark"]
+	path = external/benchmark
+	url = git@github.com:google/benchmark.git
