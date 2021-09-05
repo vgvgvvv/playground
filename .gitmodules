@@ -4,3 +4,10 @@
 [submodule "external/benchmark"]
 	path = external/benchmark
 	url = git@github.com:google/benchmark.git
+[submodule "src/demos/VulkanLearning"]
+	path = src/demos/VulkanLearning
+	url = git@github.com:vgvgvvv/VulkanLearning.git
+	branch = master
+[submodule "external/googletest"]
+	path = external/googletest
+	url = git@github.com:google/googletest.git
