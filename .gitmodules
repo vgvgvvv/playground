@@ -17,3 +17,6 @@
 [submodule "external/vendor/googletest"]
 	path = external/vendor/googletest
 	url = git@github.com:google/googletest.git
+[submodule "src/demos/DX12Learning"]
+	path = src/demos/DX12Learning
+	url = git@github.com:vgvgvvv/DX12Learning.git
