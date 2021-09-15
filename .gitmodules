@@ -23,3 +23,6 @@
 [submodule "src/demos/DX11Learning"]
 	path = src/demos/DX11Learning
 	url = git@github.com:vgvgvvv/DX11Learning.git
+[submodule "src/resetcore-cpp"]
+	path = src/resetcore-cpp
+	url = git@github.com:vgvgvvv/ResetCore-Cpp.git
