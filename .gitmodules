@@ -20,3 +20,6 @@
 [submodule "src/demos/DX12Learning"]
 	path = src/demos/DX12Learning
 	url = git@github.com:vgvgvvv/DX12Learning.git
+[submodule "src/demos/DX11Learning"]
+	path = src/demos/DX11Learning
+	url = git@github.com:vgvgvvv/DX11Learning.git
