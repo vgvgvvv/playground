@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/re-third-part" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/out/build/x64-Debug/_deps/re-cmake-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/out/build/x64-Release/_deps/re-cmake-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/demos/DX11Learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/demos/DX12Learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/demos/VulkanLearning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/resetcore-cpp" vcs="Git" />
+  </component>
+</project>

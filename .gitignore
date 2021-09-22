@@ -4,3 +4,4 @@ CustomModuleList.txt
 /out/
 /binary/
 /_ReSharper.Caches/
+/cmake-build-debug/
