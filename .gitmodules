@@ -26,3 +26,6 @@
 [submodule "src/resetcore-cpp"]
 	path = src/resetcore-cpp
 	url = git@github.com:vgvgvvv/ResetCore-Cpp.git
+[submodule "external/vendor/vcpkg"]
+	path = external/vendor/vcpkg
+	url = git@github.com:microsoft/vcpkg.git
