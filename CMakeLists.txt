@@ -18,7 +18,7 @@ message(STATUS "project init git submodules")
 ReMake_InitGit()
 ReMake_UpdateSubModule(${CMAKE_CURRENT_SOURCE_DIR})
 
-ReMake_SetToolChainFile("${CMAKE_CURRENT_SOURCE_DIR}/external/vendor/vcpkg/scripts/buildsystems/vcpkg.cmake")
+ReMake_UseVcpkg("${CMAKE_CURRENT_SOURCE_DIR}/external/vendor/vcpkg")
 
 project(playground)
 
