@@ -3,3 +3,9 @@
 //
 
 #include "Windows.h"
+
+Windows::Windows(QWidget *Parent)
+	: QMainWindow(Parent)
+{
+
+}

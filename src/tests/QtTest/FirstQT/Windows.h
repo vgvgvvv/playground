@@ -9,6 +9,10 @@
 class Windows : public QMainWindow
 {
     Q_OBJECT
+public:
+
+    explicit Windows(QWidget* Parent = nullptr);
+    ~Windows() override = default;
 };
 
 
