@@ -1,18 +1,19 @@
 //
 // Created by 35207 on 2022/4/10 0010.
 //
-#include "Window/Windows.h"
+
+
 #include <QApplication>
+#include "Windows/MainWindow.h"
 
 int main(int argc, char* argv[])
 {
 	QApplication App(argc, argv);
 
-	Windows Window;
+	MainWindow Windows;
 
-	Window.show();
+	Windows.show();
 
-	App.exec();
-
-    return 0;
+	QApplication::exec();
+	return 0;
 }
