@@ -7,5 +7,5 @@
 Windows::Windows(QWidget *Parent)
 	: QMainWindow(Parent)
 {
-
+	
 }

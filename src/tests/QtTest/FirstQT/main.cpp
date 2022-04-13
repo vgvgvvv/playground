@@ -3,6 +3,7 @@
 //
 #include "Window/Windows.h"
 #include <QApplication>
+#include <QMetaMethod>
 
 int main(int argc, char* argv[])
 {
