@@ -9,3 +9,7 @@ ReMake_AddTarget(
         LIB ResetCore_CommonLib
             Qt6::Widgets
 )
+
+ReMake_StartUse()
+UseTaskFlow(${TargetName})
+ReMake_EndUse()
