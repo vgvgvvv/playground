@@ -3,6 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/external/re-third-part" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/vendor/benchmark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/vendor/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/vendor/vcpkg" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/Toluau" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/demos/DX11Learning" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/demos/DX12Learning" vcs="Git" />

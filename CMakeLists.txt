@@ -6,7 +6,7 @@ include(FetchContent)
 FetchContent_Declare(
   re-cmake
   GIT_REPOSITORY https://github.com/vgvgvvv/re-cmake
-  GIT_TAG        "test-1.2"
+  GIT_TAG        "test-1.3"
 )
 FetchContent_MakeAvailable(re-cmake)
 
